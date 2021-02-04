@@ -1,0 +1,8 @@
+applications:
+  - path: .
+    name: cafe-searching-bot
+    memory: 128M
+    environment_json: {}
+    instances: 1
+    disk_quota: 1024M
+    services: []
